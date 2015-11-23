@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorfulBunnies", "ColorfulBunnies\ColorfulBunnies.csproj", "{3CBA071A-485F-4F8F-95FF-676FA1FE0175}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagRows", "ZigZagRows\ZigZagRows.csproj", "{E5F06919-425B-4B02-8077-54CA3026E2C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CBA071A-485F-4F8F-95FF-676FA1FE0175}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CBA071A-485F-4F8F-95FF-676FA1FE0175}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CBA071A-485F-4F8F-95FF-676FA1FE0175}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CBA071A-485F-4F8F-95FF-676FA1FE0175}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F06919-425B-4B02-8077-54CA3026E2C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F06919-425B-4B02-8077-54CA3026E2C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F06919-425B-4B02-8077-54CA3026E2C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F06919-425B-4B02-8077-54CA3026E2C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
