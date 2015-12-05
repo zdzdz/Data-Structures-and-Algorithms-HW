@@ -8,6 +8,7 @@
     {
         static List<Vertex>[] vertices;
         static int[] hospitals;
+
         public static void Main()
         {
             var PointsStreetsHospitals = Console.ReadLine().Split().Select(int.Parse).ToArray();
